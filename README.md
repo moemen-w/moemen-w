@@ -2,11 +2,11 @@
 
 I'm `@moemen-w`
 
-A little bit about myself, I study at Concordia University in Montreal and I enjoy the art of coding.
+I am a Computer Engineering at Concordia University in Montreal, Canada.
 
 **Last Position:** Software Developer Engineer Intern @ Amazon (Toronto, Canada)
 
-#### Technologies:
+#### Technologies: 
   - Java
   - React
   - Typescript
